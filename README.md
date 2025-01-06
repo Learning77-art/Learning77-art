@@ -1,27 +1,31 @@
-# Hi there! 👋 I'm Matthew
+Hi, I'm Matthew! 👋
 
-I'm training to be a junior Python developer and a Computer Science student working towards my Bachelor's degree. I'm enthusiastic about learning, building projects, and growing my skills in Python and other technologies.
+I’m a junior Python developer and a Computer Science student working towards my Bachelor's degree. I’m passionate about technology, IT support, and software development. My goal is to combine my love for problem-solving with real-world applications, whether that’s through troubleshooting IT issues or building scalable software solutions.
 
-## 👀 Interests
-- Learning Python and exploring its endless possibilities
-- Building web applications with Flask
-- Problem-solving with algorithms and data structures
-- Creating computer programs
-- Experimenting with personal and academic projects
+👨‍💻 Technical Interests & Skills
+•	Python: I'm focused on mastering Python, from building simple scripts to working on more advanced projects.
+•	IT Support: With an interest in IT systems, I enjoy troubleshooting and providing tech support solutions.
+•	Web Development (Flask): I’m working on building web applications with Flask and gaining practical experience in full-stack development.
+•	Algorithms & Data Structures: I enjoy breaking down problems and solving them with efficient algorithms.
+•	Version Control (Git/GitHub): Using Git and GitHub for version control in both academic and personal projects.
 
-## 🌱 Currently Learning
-- Python programming from beginner to intermediate level
-- Web development with Flask
-- Version control with Git and GitHub
-- Basic algorithms and data structures
+🔧 Current Learning Projects
+•	Developing Python scripts for automating tasks and solving real-world problems.
+•	Building Flask web applications to understand full-stack development.
+•	Working on improving my understanding of algorithms and data structures.
+•	Gaining experience with Git/GitHub for version control and collaboration.
 
-## 💞️ Collaboration
-I'm looking to collaborate on:
-- Beginnerto intermidiate -friendly Python projects
-- Simple Flask-based web applications
-- Learning-focused projects for hands-on experience
+🌱 Looking to Collaborate On
+
+•	Beginner-to-intermediate Python projects that focus on problem-solving.
+•	Simple Flask-based web applications for practical experience.
+•	IT automation projects using Python to streamline processes and improve efficiency.
+•	Learning-focused collaborations where we can share knowledge and grow together.
+
 
 ## 📫 How to Reach Me
+Feel free to connect if you’re interested in collaborating or sharing ideas.
+
 - **Email**: [mshavis1985@gmail.com](mailto:mshavis1985@gmail.com)
 - **LinkedIn**: [Matthew Shavis](https://www.linkedin.com/in/matthew-shavis-4807b8256/)
 -
